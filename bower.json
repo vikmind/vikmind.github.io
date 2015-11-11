@@ -1,0 +1,28 @@
+{
+  "name": "vikmind.github.io",
+  "description": "Viktor Marchenko personal website",
+  "main": "index.js",
+  "authors": [
+    "Viktor Marchenko <viktor.marchenko@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "portfolio",
+    "blog"
+  ],
+  "homepage": "https://github.com/vikmind/vikmind.github.io",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.sass": "~3.0.0"
+  }
+}

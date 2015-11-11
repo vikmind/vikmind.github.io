@@ -1,5 +1,4 @@
 vikmind.github.io
 =================
 
-Online Profile
-test
+Viktor Marchenko personal website and blog.
