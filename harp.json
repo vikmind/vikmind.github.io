@@ -1,8 +1,0 @@
-{
-	"globals": {
-		"title": "Viktor Marchenko personal website"
-	},
-	"index" {
-		"layout": "public/_layouts/general.jade"
-	}
-}
