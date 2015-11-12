@@ -23,7 +23,7 @@ var config = {
 		dest: root.dest + '/js'
 	},
 	images: {
-		src: root.src + '/img',
+		src: root.src + '/img/**',
 		dest: root.dest + '/img'
 	}
 };
